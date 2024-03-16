@@ -11,6 +11,15 @@
 		EB4F33902BA47F02003584BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F338F2BA47F02003584BE /* ContentView.swift */; };
 		EB4F33922BA47F03003584BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB4F33912BA47F03003584BE /* Assets.xcassets */; };
 		EB4F33952BA47F03003584BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB4F33942BA47F03003584BE /* Preview Assets.xcassets */; };
+		EB4F339C2BA47F37003584BE /* ChartBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F339B2BA47F37003584BE /* ChartBasic.swift */; };
+		EB4F339E2BA495D0003584BE /* CustomSheetBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F339D2BA495D0003584BE /* CustomSheetBasic.swift */; };
+		EB4F33A02BA496FC003584BE /* ShareLinkBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F339F2BA496FC003584BE /* ShareLinkBasic.swift */; };
+		EB4F33A22BA539EB003584BE /* GridRowBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33A12BA539EB003584BE /* GridRowBasic.swift */; };
+		EB4F33A42BA5455F003584BE /* NavigationStackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33A32BA5455F003584BE /* NavigationStackBasic.swift */; };
+		EB4F33A62BA55263003584BE /* GuageViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33A52BA55263003584BE /* GuageViewBasic.swift */; };
+		EB4F33A82BA55380003584BE /* TabGestureWithLocationBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33A72BA55380003584BE /* TabGestureWithLocationBasic.swift */; };
+		EB4F33AA2BA55584003584BE /* ViewThatFitIOS16.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33A92BA55584003584BE /* ViewThatFitIOS16.swift */; };
+		EB4F33AC2BA55A45003584BE /* LabeledContentIOS16.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4F33AB2BA55A45003584BE /* LabeledContentIOS16.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +28,15 @@
 		EB4F338F2BA47F02003584BE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EB4F33912BA47F03003584BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB4F33942BA47F03003584BE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EB4F339B2BA47F37003584BE /* ChartBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartBasic.swift; sourceTree = "<group>"; };
+		EB4F339D2BA495D0003584BE /* CustomSheetBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSheetBasic.swift; sourceTree = "<group>"; };
+		EB4F339F2BA496FC003584BE /* ShareLinkBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkBasic.swift; sourceTree = "<group>"; };
+		EB4F33A12BA539EB003584BE /* GridRowBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridRowBasic.swift; sourceTree = "<group>"; };
+		EB4F33A32BA5455F003584BE /* NavigationStackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBasic.swift; sourceTree = "<group>"; };
+		EB4F33A52BA55263003584BE /* GuageViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuageViewBasic.swift; sourceTree = "<group>"; };
+		EB4F33A72BA55380003584BE /* TabGestureWithLocationBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabGestureWithLocationBasic.swift; sourceTree = "<group>"; };
+		EB4F33A92BA55584003584BE /* ViewThatFitIOS16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitIOS16.swift; sourceTree = "<group>"; };
+		EB4F33AB2BA55A45003584BE /* LabeledContentIOS16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabeledContentIOS16.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +73,15 @@
 				EB4F338F2BA47F02003584BE /* ContentView.swift */,
 				EB4F33912BA47F03003584BE /* Assets.xcassets */,
 				EB4F33932BA47F03003584BE /* Preview Content */,
+				EB4F339B2BA47F37003584BE /* ChartBasic.swift */,
+				EB4F339D2BA495D0003584BE /* CustomSheetBasic.swift */,
+				EB4F339F2BA496FC003584BE /* ShareLinkBasic.swift */,
+				EB4F33A12BA539EB003584BE /* GridRowBasic.swift */,
+				EB4F33A32BA5455F003584BE /* NavigationStackBasic.swift */,
+				EB4F33A52BA55263003584BE /* GuageViewBasic.swift */,
+				EB4F33A72BA55380003584BE /* TabGestureWithLocationBasic.swift */,
+				EB4F33A92BA55584003584BE /* ViewThatFitIOS16.swift */,
+				EB4F33AB2BA55A45003584BE /* LabeledContentIOS16.swift */,
 			);
 			path = SwitUIIOS16Basic;
 			sourceTree = "<group>";
@@ -137,8 +164,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB4F33AA2BA55584003584BE /* ViewThatFitIOS16.swift in Sources */,
+				EB4F33A82BA55380003584BE /* TabGestureWithLocationBasic.swift in Sources */,
+				EB4F339C2BA47F37003584BE /* ChartBasic.swift in Sources */,
 				EB4F33902BA47F02003584BE /* ContentView.swift in Sources */,
+				EB4F33AC2BA55A45003584BE /* LabeledContentIOS16.swift in Sources */,
 				EB4F338E2BA47F02003584BE /* SwitUIIOS16BasicApp.swift in Sources */,
+				EB4F33A22BA539EB003584BE /* GridRowBasic.swift in Sources */,
+				EB4F33A42BA5455F003584BE /* NavigationStackBasic.swift in Sources */,
+				EB4F33A62BA55263003584BE /* GuageViewBasic.swift in Sources */,
+				EB4F339E2BA495D0003584BE /* CustomSheetBasic.swift in Sources */,
+				EB4F33A02BA496FC003584BE /* ShareLinkBasic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +316,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,6 +346,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
